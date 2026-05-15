@@ -13,7 +13,7 @@ This workstation has **144GB** of vram, with Ubuntu 24 installed.
 Accessing the server headless is really simple. First connect to the lab wifi:  
 **TP-Link_3F91**  
 
-Make sure your PC is connected to the wifi above, not RPI network. Then you can simply use windows powershell(Windoes) / command terminal(Ubuntu) to
+Make sure your PC is connected to the wifi above, not RPI network. Then you can simply use windows powershell(Windows) / command terminal(Ubuntu) to
 
 ```bash
 ssh asclab_pub@192.168.0.4
