@@ -28,7 +28,10 @@ scp ./your/folder/name asclab_pub@192.168.0.4:/home/asclab_pub/projects/path/to/
 ```
 
 ## How to access (VSCode)
-In Visual Studio code, accessing the server is convenient. First you need to install  
+In Visual Studio code, accessing the server is convenient.  First connect to the lab wifi:  
+**TP-Link_3F91**  
+
+You also need to install  
 - Visual Studio Code
 - Remote - SSH extension
 
@@ -46,4 +49,4 @@ You will be asked to provide password. You can ask the server admin for the pass
 C:\Users\your_name\.ssh\config
 ```
 
-for the file to update. Now you can always connect to the server using VS Code.
+for the file to update. Now you can always connect to the server using VS Code. Refer to _How to access (Headless)_ for copying files.
